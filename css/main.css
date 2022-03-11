@@ -8,8 +8,8 @@ html {
   box-sizing: inherit;
 }
 
-body{
-  background-color #ccc;
+body {
+  background-color: #ccc;
   font-family: sans-serif;
 }
 
@@ -18,6 +18,6 @@ h1 {
 }
 
 article {
-  font-style: italic
+  font-style: italic;
   color: #666;
 }
