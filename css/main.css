@@ -3,7 +3,7 @@ html {
 }
 
 *
-*::before
+*::before,
 *::after {
   box-sizing: inherit;
 }
@@ -15,7 +15,9 @@ body{
 
 h1 {
   font-size: 1.5rem;
+}
 
-  article {
+article {
   font-style: italic
-color: #666;}
+  color: #666;
+}
